@@ -4,6 +4,8 @@ This is a deployment example of **Chemotion**, an open-source Electronic Lab Not
 ## About the ELN  
 [Click here to visit the ELN](https://reaction.qutesun.me). You can register and explore its features.  
 
+It relies on a free vps, to minimise the cost of the potential charge, this ELN was configured to be closed between 9pm-9am Beijing time, and up between 9am-9pm during the day.
+
 ### **Important Notice**  
 This is a **personal project** and will be terminated by **January 2026**.  
 Please **do not use it for any serious or production-level projects**.  
